@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed May 20 01:05:53 2020
-
-@author: ASUS
 """
 import cv2
 import streamlit as st
